@@ -1,0 +1,1 @@
+import { mostraCidade, mostraIdade, mostraHobby } from "./funcoes.mjs";
