@@ -1,16 +1,15 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-.body {
-    margin background-color: black;
+body {
+    display: flex;
+    height: auto;
+    width: 1200px;
 }
 
 .wrapper {
     align-items: center;
-}
-
-.blue_link {
-    display: inline;
 }
